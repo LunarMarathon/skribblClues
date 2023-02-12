@@ -1,0 +1,15 @@
+body {
+  padding: 5px !important;
+  box-sizing: border-box !important;
+}
+
+#game-logo{
+  margin: 5px !important;
+  height: max-content !important;
+}
+
+a{
+  color: dodgerblue !important;
+  font-size: 20px;
+  font-weight: bold;
+}

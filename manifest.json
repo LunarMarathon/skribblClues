@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Skribbl - possibleWords",
+  "version": "0.2.0",
+  "description": "Word hints for Skribbl",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://skribbl.io/*"]
+  }]
+
+}
